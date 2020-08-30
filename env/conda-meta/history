@@ -1,0 +1,14 @@
+==> 2020-08-17 15:16:03 <==
+# cmd: C:\Users\rachl\anaconda3\Scripts\conda-script.py create --prefix=env python=2.7
+# conda version: 4.8.3
++defaults/win-64::ca-certificates-2020.6.24-0
++defaults/win-64::certifi-2019.11.28-py27_0
++defaults/win-64::pip-19.3.1-py27_0
++defaults/win-64::python-2.7.18-hfb89ab9_0
++defaults/win-64::setuptools-44.0.0-py27_0
++defaults/win-64::sqlite-3.30.1-h0c8e037_0
++defaults/win-64::vc-9-h7299396_1
++defaults/win-64::vs2008_runtime-9.00.30729.1-hfaea7d5_1
++defaults/win-64::wheel-0.33.6-py27_0
++defaults/win-64::wincertstore-0.2-py27hf04cefb_0
+# update specs: ['python=2.7']

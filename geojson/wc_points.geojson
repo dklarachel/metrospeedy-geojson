@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ZCTA5CE10": "10540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.724257,
+          41.333398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZCTA5CE10": "10587"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.742268,
+          41.328737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ZCTA5CE10": "10702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.732996,
+          41.119008
+        ]
+      }
+    }
+  ]
+}

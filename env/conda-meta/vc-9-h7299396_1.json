@@ -1,0 +1,38 @@
+{
+  "build": "h7299396_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vs2008_runtime >=9.0.30729.1,<10.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\rachl\\anaconda3\\pkgs\\vc-9-h7299396_1",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-9-h7299396_1.conda",
+  "legacy_bz2_md5": "f2d6cc582005c00a970cb9975b894b45",
+  "legacy_bz2_size": 2844,
+  "license": "Modified BSD License (3-clause)",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\rachl\\anaconda3\\pkgs\\vc-9-h7299396_1",
+    "type": 1
+  },
+  "md5": "b2fc6c34eeeb09ca0c63e729bfcdb0dc",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\rachl\\anaconda3\\pkgs\\vc-9-h7299396_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "fb8ecb4438d0ed39d375067210ec95e656df881946a1898019da29a9d92fef44",
+  "size": 3126,
+  "subdir": "win-64",
+  "timestamp": 1508370898881,
+  "track_features": "vc9",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/vc-9-h7299396_1.conda",
+  "version": "9"
+}

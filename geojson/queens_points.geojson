@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ZCTA5CE10": "11120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.870779,
+          40.651378
+        ]
+      }
+    }
+  ]
+}
